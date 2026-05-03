@@ -103,3 +103,5 @@ void buscarProducto(char nombres[][MAX_NOMBRE], float precios[], int n, char nom
         printf("No se encontró el producto '%s'.\n", nombreBuscado);
     }
 }
+
+
