@@ -4,7 +4,6 @@
 #define MAX_NOMBRE 50
 #define MAX_PRODUCTOS 10
 
-// Prototipos
 void ingresarDatos(char nombres[][MAX_NOMBRE], float precios[], int n);
 float calcularTotal(float precios[], int n);
 float calcularPromedio(float precios[], int n);
